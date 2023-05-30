@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/bin/Debug/net6.0/zadanie21
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/bin/Debug/net6.0/zadanie21.deps.json
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/bin/Debug/net6.0/zadanie21.runtimeconfig.json
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/bin/Debug/net6.0/zadanie21.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/bin/Debug/net6.0/zadanie21.pdb
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.AssemblyInfo.cs
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/refint/zadanie21.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.pdb
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/zadanie21.genruntimeconfig.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie21/obj/Debug/net6.0/ref/zadanie21.dll
