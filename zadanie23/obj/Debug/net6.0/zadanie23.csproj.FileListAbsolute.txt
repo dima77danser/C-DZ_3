@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/bin/Debug/net6.0/zadanie23
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/bin/Debug/net6.0/zadanie23.deps.json
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/bin/Debug/net6.0/zadanie23.runtimeconfig.json
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/bin/Debug/net6.0/zadanie23.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/bin/Debug/net6.0/zadanie23.pdb
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.AssemblyInfo.cs
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/refint/zadanie23.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.pdb
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/zadanie23.genruntimeconfig.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie23/obj/Debug/net6.0/ref/zadanie23.dll
