@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.AssemblyInfo.cs
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/bin/Debug/net6.0/zadanie19
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/bin/Debug/net6.0/zadanie19.deps.json
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/bin/Debug/net6.0/zadanie19.runtimeconfig.json
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/bin/Debug/net6.0/zadanie19.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/bin/Debug/net6.0/zadanie19.pdb
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/refint/zadanie19.dll
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.pdb
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/zadanie19.genruntimeconfig.cache
+/Users/LukashinD/Desktop/C#DZ_3/zadanie19/obj/Debug/net6.0/ref/zadanie19.dll
